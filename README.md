@@ -1,4 +1,4 @@
-Here’s the documentation for the UI Library you requested, detailing the usage and functions:
+Here is the documentation with the code properly wrapped in code blocks so you can easily copy it:
 
 
 ---
